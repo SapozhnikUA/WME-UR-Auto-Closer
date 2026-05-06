@@ -1,9 +1,12 @@
 // ==UserScript==
 // @name         WME UR Auto-Closer
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/SapozhnikUA/WME-UR-Auto-Closer
 // @version      4.0
 // @description  Автозакриття UR з плаваючою кнопкою та циклічним перезапуском поки є що закривати
 // @author       Andrey
+// @homepageURL  https://github.com/SapozhnikUA/WME-UR-Auto-Closer
+// @downloadURL  https://raw.githubusercontent.com/SapozhnikUA/WME-UR-Auto-Closer/main/wme-ur-auto-closer.user.js
+// @updateURL    https://raw.githubusercontent.com/SapozhnikUA/WME-UR-Auto-Closer/main/wme-ur-auto-closer.user.js
 // @include      /^https:\/\/(www|beta)\.waze\.com\/(?!user\/)(.{2,6}\/)?editor\/?.*$/
 // @grant        none
 // @run-at       document-start
